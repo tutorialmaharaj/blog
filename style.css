@@ -1,0 +1,56 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.t-div
+{
+    border: 1px solid red;
+    float: none;
+}
+
+.t-div img
+{
+    width: 100%;
+    
+}
+
+.movieh{
+    font-size: 20px;
+    padding: 6px ;
+    border-radius: 10px;
+    margin-bottom: 15px;
+ 
+}
+
+.movieh i {
+    float: right
+}
+
+.navbar-header{ background-color: aqua;
+}
+
+#myNavbar{ background-color: aqua;}
+
+.modal-content{ margin-top: 100px ;
+    text-align: center;
+}
+
+.img_modal{ display:inline-block;
+}
+
+.p_modal{margin-top: 100px;
+}
